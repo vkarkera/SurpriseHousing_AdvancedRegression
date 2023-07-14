@@ -33,20 +33,20 @@ Steps for Advanced Regression:
 
 Read and Understand the data<br>
 Data Exploration<br>
-    1. Univariate Analysis<br>
-    2.  Bivariate Analysis<br>
+        1. Univariate Analysis<br>
+        2.  Bivariate Analysis<br>
 Feature Engineering<br>
 Data Preprocessing<br>
-    1.  Missing Value Treatment<br>
-    2.  Dummy Variable Creation<br>
-    3.  Outlier Treatment<br>
+        1.  Missing Value Treatment<br>
+        2.  Dummy Variable Creation<br>
+        3.  Outlier Treatment<br>
 Model Building, Tuning & Evaluation<br>
-    1. Split the Data into Dependent and Independent variables<br>
-    2. Train - Test Split<br>
-    3. Scaling numerical columns<br>
-    4. Model 1: Ridge Regression<br>
-    5. Model 2: Lasso Regression<br>
-    6. Comparing the two models<br>
+        1. Split the Data into Dependent and Independent variables<br>
+        2. Train - Test Split<br>
+        3. Scaling numerical columns<br>
+        4. Model 1: Ridge Regression<br>
+        5. Model 2: Lasso Regression<br>
+        6. Comparing the two models<br>
 Conclusion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
